@@ -9,5 +9,5 @@ During the whole execution time the video of the scene is being recorded.
 As the result you get a video of robot's moves through the map
 
 You can see a screenshot below
-![robot_test1](https://user-images.githubusercontent.com/46127313/59796651-a4692b80-92e6-11e9-9240-5912ee4dd415.png | width=100)
+![robot_test1](https://user-images.githubusercontent.com/46127313/59796651-a4692b80-92e6-11e9-9240-5912ee4dd415.png)
 
